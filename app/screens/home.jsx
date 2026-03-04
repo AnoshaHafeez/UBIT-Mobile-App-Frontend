@@ -13,6 +13,7 @@ const HomeScreen = () => {
         { name: 'Attendance', iconName: '3k', iconColor: '#338000' },
         { name: 'Campus', iconName: '4k', iconColor: '#805e00' },
     ]
+    
     return (
         <SafeAreaView>
             <DashboardHeader />
